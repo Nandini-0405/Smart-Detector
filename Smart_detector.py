@@ -2,6 +2,7 @@ import cv2
 import mediapipe as mp
 import numpy as np
 
+__version__='dev'
 # Function to calculate angle between three points
 def calculate_angle(a, b, c):
     a = np.array(a)  # Point A
