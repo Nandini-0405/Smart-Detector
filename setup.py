@@ -1,4 +1,4 @@
-from setuptools import setup c
+from setuptools import setup
 from Smart_detector import __version__
 setup(
   name='Smart_detector',
